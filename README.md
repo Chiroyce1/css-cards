@@ -15,5 +15,5 @@ See them [here](https://chiroyce1.github.io/css-cards/).
 
 ### TODO: 
 - Add an animation for the card when it closes
-- -Auto theme switcher-
-- -Close button-
+- ~~Auto theme switcher~~
+- ~~Close button~~
