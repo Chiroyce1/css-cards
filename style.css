@@ -61,6 +61,7 @@
 
 .close {
     float: right;
+    margin-left: 30px;
     cursor: pointer;
     transition: transform 0.5s;
 }
